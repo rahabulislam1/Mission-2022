@@ -15,6 +15,7 @@ body{
 }
 h1{
     font-size: 50px;
+    
 }
 h2{
     font-size: 40px;
@@ -32,6 +33,7 @@ h2{
     border: none;
     border-radius: 5px;
     padding: 10px 30px;
+    cursor: pointer;
     /* background-image: linear-gradient(45deg,rgb(236, 56, 56),rgb(25, 209, 9),yellow); */
 }
 
@@ -50,7 +52,7 @@ h2{
 .right-section img{
     /* border: 2px gray solid;  */
     width: 70%;
-    margin-left: 50px;
+    margin-left: 85px;
 }
 
 #clr-2022{
@@ -107,10 +109,16 @@ h2{
 .parent-bottom{
     text-align: center;
     color: white;
-    padding: 30px;
+    padding: 10px;
     background-color: black;
 }
 
 #footer-id{
     color: tomato;
+}
+
+.prnt-2-background-img{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
