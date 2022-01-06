@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.parent{
+    display: flex;
+}
+
+.left-title{
+    border-left: 5px red solid;
+}
+
+#mission-clr{
+    color: darkorange;
+}
+.btn-explr{
+    background-color: rgb(236, 56, 56);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    /* background-image: linear-gradient(45deg,rgb(236, 56, 56),rgb(25, 209, 9),yellow); */
+}
+
+.btn-explr:hover{
+    background-color: rgba(12, 218, 218, 0.849);
+    color: rgb(0, 0, 0);
+}
+
+.right-section img{
+    width: 50%;
+}
