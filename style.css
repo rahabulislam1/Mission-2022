@@ -2,6 +2,8 @@ body{
     padding: 0px;
     margin: 0px;
     margin-top: 100px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 .parent{
@@ -13,6 +15,9 @@ body{
 }
 h1{
     font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
 
 .left-title{
@@ -45,6 +50,7 @@ h1{
 .right-section img{
     /* border: 2px gray solid;  */
     width: 70%;
+    margin-left: 50px;
 }
 
 #clr-2022{
@@ -86,4 +92,25 @@ h1{
 
 .prnt-3-left-section img{
     width: 70%;
+}
+
+.prnt-4-right-section img{
+    width: 65%;
+    margin-left: 150px;
+    /* border: 2px gray solid; */
+}
+
+.margin-top-btm{
+    margin-bottom: 70px;
+}
+
+.parent-bottom{
+    text-align: center;
+    color: white;
+    padding: 30px;
+    background-color: black;
+}
+
+#footer-id{
+    color: tomato;
 }
