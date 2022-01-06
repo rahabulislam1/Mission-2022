@@ -122,3 +122,22 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.prnt-5-card-1{
+    background-color: rgb(182, 244, 252);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+}
+
+.prnt-5-card-2{
+    background-color: rgb(171, 253, 212);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+}
+
