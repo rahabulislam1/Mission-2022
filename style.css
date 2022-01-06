@@ -46,6 +46,40 @@ h1{
 .right-section img{
     /* border: 2px gray solid;  */
     width: 70%;
-    
-    
+}
+
+#clr-2022{
+    color: darkorange;
+}
+
+.prnt-2-title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.prnt-2-card-1{
+    background-color: rgb(182, 244, 252);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card-1-img img{
+    width: 55%;
+}
+.prnt-2-card-2{
+    background-color: rgb(171, 253, 212);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.prnt-2-card-3{
+    background-color: rgb(250, 215, 215);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.prnt-2-card{
+    display: flex;
+    justify-content: space-around;
 }
